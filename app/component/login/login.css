@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.pannel{
+    width: 30%;
+    height: 400px;
+    margin: 0 auto;
+    margin-top: 200px;
+}
+
+.submitBtn{
+     font-family :'Consolas';
+     color       :white;
+}
+
+.serverName{
+    font-weight: 100;
+}
+
+.input{
+    width: 400px;
+    height: 40px;
+    color:white;
+    font-size: 14px;
+    font-weight: 100;
+    font-family: 'Consolas';
+    border:1px solid #000000;
+    background: rgba(0, 0, 0, 0);
+    margin-top:20px;
+
+}
