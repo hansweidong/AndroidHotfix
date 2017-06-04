@@ -19,4 +19,7 @@ cd AndroidHotfix && npm install
 express.pkgUrl      = 'C:/Users/huang/Tangpriest/workspace/myapp/tmp/';
 express.downloadUrl = 'http://127.0.0.1:8100/download/';
 ```
-######启动服务并访问8100端口
+###启动服务并访问8100端口
+```
+npm start
+```
