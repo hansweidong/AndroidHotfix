@@ -92,11 +92,11 @@ class UploadBtn extends React.Component{
                     <Upload {...props}><span> 开始上传</span></Upload>
                 </span>
                 <span className={`btn btn-default fileinput-button ${style.logout}`} onClick={this.removeCookie}>
-                    <i className="glyphicon glyphicon-plane"></i>
+                    <i className="glyphicon glyphicon-off"></i>
                     <span> 用户注销</span>
                 </span>
                  <span className={`btn btn-default fileinput-button ${style.logout}`} onClick={this.clearVersion}>
-                    <i className="glyphicon glyphicon-plane"></i>
+                    <i className="glyphicon glyphicon-repeat"></i>
                     <span> 重置版本</span>
                 </span>
             </div>
